@@ -1,0 +1,19 @@
+{
+  "name": "learn-cicd-starter",
+  "version": "1.0.0",
+  "description": "Learning CI/CD with boot.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elyus13/learn-cicd-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elyus13/learn-cicd-starter/issues"
+  },
+  "homepage": "https://github.com/Elyus13/learn-cicd-starter#readme"
+}
