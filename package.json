@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Elyus13/learn-cicd-starter/issues"
   },
-  "homepage": "https://github.com/Elyus13/learn-cicd-starter#readme"
+  "homepage": "https://github.com/Elyus13/learn-cicd-starter#readme",
+  "devDependencies": {
+    "vitest": "^4.0.16"
+  }
 }
